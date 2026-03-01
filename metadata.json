@@ -1,0 +1,5 @@
+{
+  "name": "Twitter Embed Code Generator",
+  "description": "Generate clean embed codes for X (formerly Twitter) posts instantly.",
+  "requestFramePermissions": []
+}
